@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+pb_data/
+pb_public/
+/backend/pocketbase
+/backend/pocketbase.exe
+*.log
+.env.local
+.DS_Store
+.venv/
